@@ -5,53 +5,6 @@ import { Newc } from './Newc'
 export function Overseas() {
     return (
         <>
-            {/* <Container className='mt-5 mb-5'>
-
-
-                <Row lg={3} md={2} xs={1} className="g-6">
-                    <Stack direction="horizontal" gap={2}>
-                        <Col className="d-flex">
-
-                            <Card style={{ width: '20rem' }} >
-                                <Card.Img variant="top" src="holder.js/100px180" />
-                                <Card.Body>
-                                    <Card.Title>Card Title</Card.Title>
-                                    <Card.Text>
-                                        Some quick example text to build on the card title and make up the bulk of
-                                        the card's content.
-                                    </Card.Text>
-                                    <Button variant="primary">Go somewhere</Button>
-                                </Card.Body>
-                            </Card>
-                     
-                
-                            <Card style={{ width: '20rem' }}>
-                                <Card.Img variant="top" src="holder.js/100px180" />
-                                <Card.Body>
-                                    <Card.Title>Card Title</Card.Title>
-                                    <Card.Text>
-                                        Some quick example text to build on the card title and make up the bulk of
-                                        the card's content.
-                                    </Card.Text>
-                                    <Button variant="primary">Go somewhere</Button>
-                                </Card.Body>
-                            </Card>
-                            <Card style={{ width: '20rem' }}>
-                                <Card.Img variant="top" src="holder.js/100px180" />
-                                <Card.Body>
-                                    <Card.Title>Card Title</Card.Title>
-                                    <Card.Text>
-                                        Some quick example text to build on the card title and make up the bulk of
-                                        the card's content.
-                                    </Card.Text>
-                                    <Button variant="primary">Go somewhere</Button>
-                                </Card.Body>
-                            </Card>
-                        </Col>
-                    </Stack>
-
-                </Row>
-            </Container> */}
             <Container className='mt-5 mb-5'>
                 <div data-testid="richTextElement">
                     <div className='d-flex align-items-center flex-column'>
